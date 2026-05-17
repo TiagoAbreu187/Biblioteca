@@ -1,2 +1,1 @@
-# Trabalho
-Sistema de procura de livros de uma biblioteca
+Sistema de procura de livros para biblioteca
